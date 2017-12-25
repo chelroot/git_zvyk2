@@ -1,0 +1,23 @@
+#!/bin/bash
+
+DATE=`date '+%d'.'%m'`
+
+for i in  `cat /home/vova/userid.txt`
+
+do
+
+
+#mkdir /var/www/html/"$i"/"$DATE"_foto
+
+mkdir /var/www/html/foto/"$i"/"$DATE"
+echo "<a href=$DATE>$DATE</a><br />"  >> /var/www/html/foto/"$i"/index.html
+##mkdir /var/www/html/"$i"/"$DATE"_video
+#mkdir /var/www/html/"$i"
+
+done
+
+
+
+
+
+

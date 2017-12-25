@@ -1,0 +1,12 @@
+50 8 * * * mpg123 /home/vova/77/Do_otkrytiq_10_minut.mp3
+
+0 9 * * * mpg123 /home/vova/77/Helsq_otkryt.mp3
+
+45 18 * * 1-6 mpg123 /home/vova/77/Ostalosq_15_minut.mp3
+
+0 19 * * 1-6 mpg123 /home/vova/77/Zakryt.mp3
+
+45 17 * * 0 mpg123 /home/vova/77/Ostalosq_15_minut.mp3
+
+0 18 * * 0 mpg123 /home/vova/77/Zakryt.mp3
+

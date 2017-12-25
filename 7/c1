@@ -1,0 +1,35 @@
+#!/bin/bash
+sleep 5 
+
+date +"%M" > /home/vova/7/min1
+
+i=`head -1 /home/vova/7/min1`
+
+if
+
+    head -1 /home/vova/public_html/server/name/f"$i".txt | grep mp3 >> /dev/null
+
+    then
+
+    ##amixer set Master unmute 40;sleep 2
+    amixer set Master unmute 35;sleep 2
+    amixer set Master unmute 30;sleep 2
+    amixer set Master unmute 25;sleep 2
+    amixer set Master unmute 15;sleep 2
+    amixer set Master unmute 10;sleep 2
+
+killall mplayer
+
+    sleep 2
+
+amixer set Master unmute `head -2c /home/vova/public_html/server/name/f"$i".txt`
+
+mpg123 /home/vova/public_html/server/download/temp/`head -1 /home/vova/public_html/server/name/f"$i".txt`
+
+    /home/vova/7/scr_radio
+
+
+    else
+    /home/vova/7/testing
+##date >>/home/vova/7/testing.txt
+    fi

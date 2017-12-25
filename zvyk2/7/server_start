@@ -1,0 +1,24 @@
+#!/bin/bash
+
+    rm -Rf  /home/vova/public_html/server/resett/resett.txt
+
+    amixer set Master unmute 20;sleep 1
+
+    amixer set Master unmute 15;sleep 1
+
+    amixer set Master unmute 10;sleep 1
+
+    amixer set Master unmute 5;sleep 1
+
+
+    ps -ax | grep mplayer > k.txt;kill `head -c10 k.txt`
+
+    ps -ax | grep mplayer > k.txt;kill `head -c10 k.txt`
+
+    ps -ax | grep mpg123 > k1.txt;kill `head -c10 k1.txt`
+
+
+
+amixer set Master unmute 25
+
+mplayer -nocache -softvol `head -1 /home/vova/public_html/server/radio/radio.txt` -af extrastereo=0,volume=`head -1 /home/vova/public_html/server/volume/volume.txt`

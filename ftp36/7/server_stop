@@ -1,0 +1,15 @@
+#!/bin/bash
+
+    rm -Rf  /home/vova/public_html/server/resett/resett.txt
+
+    amixer set Master unmute 20;sleep 1
+    amixer set Master unmute 15;sleep 1
+    amixer set Master unmute 10;sleep 1
+    amixer set Master unmute 5;sleep 1
+
+
+killall mplayer
+sleep 1
+killall  mpg123
+
+    amixer set Master unmute 35;sleep 1

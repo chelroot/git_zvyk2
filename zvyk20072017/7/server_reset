@@ -1,0 +1,32 @@
+#!/bin/bash
+    if
+
+    ls /home/vova/public_html/server/resett/ | grep resett.txt >> /dev/null
+
+    then
+    rm -Rf  /home/vova/public_html/server/resett/resett.txt
+
+    amixer set Master unmute 20;sleep 1
+
+    amixer set Master unmute 15;sleep 1
+
+    amixer set Master unmute 10;sleep 1
+
+    amixer set Master unmute 5;sleep 1
+
+
+    killall mplayer
+    sleep 1
+
+    killall  mpg123
+
+sleep 1
+
+
+    /home/vova/7/scr_radio
+date >>/home/vova/7/resett.txt
+
+    else
+    echo  "запроса на запуск перезагрузки звукового сервера не было"
+
+    fi

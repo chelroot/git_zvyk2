@@ -1,0 +1,14 @@
+#!/bin/bash
+    if
+
+    ps -ax | grep mplayer | grep nocache >> /dev/null
+
+    then
+echo "радио работает"
+
+    else
+    /home/vova/7/scr_radio
+date >> restart_testing.txt
+    echo  "выполнен перезапуск"
+
+    fi

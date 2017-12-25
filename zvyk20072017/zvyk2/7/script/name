@@ -1,0 +1,18 @@
+#!/bin/bash
+
+i=1
+while [ $i -le 59 ]
+do
+echo "$i минута  -  установлен -----------------" >> /home/vova/7/script/cc2
+echo "<?php     $f = fopen("f$i.txt", "r");">> /home/vova/7/script/cc2
+head -4 115 >> /home/vova/7/script/cc2
+echo "<form action="a$i.php" method="post" enctype="multipart/form-data"" >> /home/vova/7/script/cc2
+head -5 114 >> /home/vova/7/script/cc2
+
+
+
+
+
+i=$[$i+1]
+
+done

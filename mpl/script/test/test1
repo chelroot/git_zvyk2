@@ -1,0 +1,13 @@
+60 bytes from 00:1e:8c:7d:8e:0e (10.0.0.4): index=0 time=292.063 usec
+60 bytes from 00:16:e6:4d:8c:5d (10.0.0.5): index=0 time=138.044 usec
+60 bytes from 20:cf:30:e9:8b:5a (10.0.0.9): index=0 time=840.902 usec
+10.0.0.1 свободен
+10.0.0.2 свободен
+10.0.0.3 свободен
+60 bytes from 00:1e:8c:7d:8e:0e (10.0.0.4): index=0 time=231.028 usec
+60 bytes from 00:16:e6:4d:8c:5d (10.0.0.5): index=0 time=134.945 usec
+10.0.0.6 свободен
+10.0.0.7 свободен
+10.0.0.8 свободен
+60 bytes from 20:cf:30:e9:8b:5a (10.0.0.9): index=0 time=726.938 usec
+10.0.0.10 свободен

@@ -1,0 +1,6 @@
+method="post" enctype="multipart/form-data">
+     Изменить на новое имя файла: <input type="text" name="name" />
+     <input type="submit" value="Отправить форму" />
+      </form>
+
+

@@ -1,0 +1,4 @@
+ 7894 ?        SNL    0:00 mplayer -nocache -softvol http://radio7128.streamr.ru/? -af extrastereo=0,volume=3
+ 7954 pts/2    S+     0:00 grep --color=auto nocache
+ 8093 pts/2    S+     0:00 grep --color=auto nocache
+ 8165 pts/2    S+     0:00 grep --color=auto nocache

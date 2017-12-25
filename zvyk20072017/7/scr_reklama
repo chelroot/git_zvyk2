@@ -1,0 +1,6 @@
+#!/bin/bash
+
+amixer set Master unmute 25;
+
+mpg123 /home/vova/public_html/server/download/temp/`head -1 /home/vova/public_html/server/name/f1.txt`
+

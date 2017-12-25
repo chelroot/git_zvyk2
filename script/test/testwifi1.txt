@@ -1,0 +1,372 @@
+60 bytes from 1c:4b:d6:c8:a1:c8 (10.0.0.160): index=0 time=56.672 msec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.164): index=0 time=384.808 usec
+##60 bytes from 00:0c:42:d0:d4:5a (10.0.0.166): index=0 time=250.101 usec
+###60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=260.830 usec
+60 bytes from 44:6d:57:93:2c:f6 (10.0.0.170): index=0 time=98.001 msec
+###60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=187.159 usec
+###60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=333.071 usec
+###60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=648.975 usec
+60 bytes from 00:1b:b1:4f:3b:6e (10.0.0.178): index=0 time=94.493 msec
+###60 bytes from fc:75:16:a6:c6:37 (10.0.0.179): index=0 time=351.191 usec
+60 bytes from 00:17:c4:05:a8:91 (10.0.0.180): index=0 time=83.409 msec
+60 bytes from e8:39:df:56:63:1a (10.0.0.181): index=0 time=64.292 msec
+###60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=322.104 usec
+###60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=247.955 usec
+60 bytes from 94:00:70:60:04:13 (10.0.0.185): index=0 time=10.488 msec
+###60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.196 msec
+60 bytes from c0:18:85:64:cd:2c (10.0.0.191): index=0 time=93.476 msec
+###60 bytes from e8:40:f2:04:7c:51 (10.0.0.192): index=0 time=760.078 usec
+###60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=253.916 usec
+###60 bytes from 00:04:61:44:2c:00 (10.0.0.197): index=0 time=352.859 usec
+
+
+####60 bytes from fc:75:16:e9:f0:dd (10.0.0.164): index=0 time=410.795 usec
+60 bytes from 00:0c:42:d0:d4:5a (10.0.0.166): index=0 time=261.068 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=221.014 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=194.073 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=486.851 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=634.909 usec
+60 bytes from fc:75:16:a6:c6:37 (10.0.0.179): index=0 time=350.952 usec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=427.961 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=264.883 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.156 msec
+60 bytes from e8:40:f2:04:7c:51 (10.0.0.192): index=0 time=310.898 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=393.152 usec
+60 bytes from 00:04:61:44:2c:00 (10.0.0.197): index=0 time=232.220 usec
+
+
+###
+@60 bytes from fc:75:16:e9:f0:dd (10.0.0.164): index=0 time=413.179 usec
+60 bytes from 00:0c:42:d0:d4:5a (10.0.0.166): index=0 time=258.923 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=221.014 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=187.874 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=488.997 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=646.114 usec
+60 bytes from fc:75:16:a6:c6:37 (10.0.0.179): index=0 time=355.005 usec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=328.064 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=270.844 usec
+60 bytes from a8:92:2c:ce:5b:09 (10.0.0.186): index=0 time=25.141 msec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.179 msec
+60 bytes from e8:40:f2:04:7c:51 (10.0.0.192): index=0 time=301.838 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=1.376 msec
+60 bytes from 00:04:61:44:2c:00 (10.0.0.197): index=0 time=228.882 usec
+@
+@
+60 bytes from f0:1c:13:ca:6b:24 (10.0.0.163): index=0 time=33.993 msec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.164): index=0 time=354.052 usec
+60 bytes from 00:0c:42:d0:d4:5a (10.0.0.166): index=0 time=250.101 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=409.126 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=165.939 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=265.837 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=946.045 usec
+60 bytes from fc:75:16:a6:c6:37 (10.0.0.179): index=0 time=355.959 usec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=316.143 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=274.897 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.083 msec
+60 bytes from e8:40:f2:04:7c:51 (10.0.0.192): index=0 time=703.096 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=353.098 usec
+60 bytes from 00:04:61:44:2c:00 (10.0.0.197): index=0 time=225.067 usec
+@
+@60 bytes from fc:75:16:e9:f0:dd (10.0.0.164): index=0 time=360.966 usec
+60 bytes from 00:0c:42:d0:d4:5a (10.0.0.166): index=0 time=373.125 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=265.121 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=191.927 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=583.172 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=657.082 usec
+60 bytes from fc:75:16:a6:c6:37 (10.0.0.179): index=0 time=510.931 usec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=315.905 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=277.042 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.150 msec
+60 bytes from e8:40:f2:04:7c:51 (10.0.0.192): index=0 time=272.036 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=193.119 usec
+60 bytes from 00:04:61:44:2c:00 (10.0.0.197): index=0 time=221.968 usec
+@
+@60 bytes from fc:75:16:e9:f0:dd (10.0.0.164): index=0 time=375.032 usec
+60 bytes from 00:0c:42:d0:d4:5a (10.0.0.166): index=0 time=457.048 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=422.001 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=191.927 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=615.120 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=621.080 usec
+60 bytes from fc:75:16:a6:c6:37 (10.0.0.179): index=0 time=351.191 usec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=325.918 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=412.941 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.203 msec
+60 bytes from e8:40:f2:04:7c:51 (10.0.0.192): index=0 time=305.176 usec
+60 bytes from 98:0c:82:5d:f5:bc (10.0.0.194): index=0 time=65.429 msec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=238.895 usec
+60 bytes from 00:04:61:44:2c:00 (10.0.0.197): index=0 time=722.170 usec
+@
+@60 bytes from 48:60:bc:eb:ef:94 (10.0.0.156): index=0 time=46.033 msec
+60 bytes from 50:cc:f8:df:4e:83 (10.0.0.159): index=0 time=30.876 msec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.164): index=0 time=360.966 usec
+60 bytes from 00:0c:42:d0:d4:5a (10.0.0.166): index=0 time=596.046 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=203.133 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=195.980 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=169.992 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=837.088 usec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=316.143 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=281.811 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.154 msec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=220.776 usec
+@
+@
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.164): index=0 time=347.853 usec
+60 bytes from 00:0c:42:d0:d4:5a (10.0.0.166): index=0 time=265.121 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=264.168 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=195.980 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=1.298 msec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=1.095 msec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=324.965 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=514.984 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.095 msec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=196.934 usec
+@
+
+
+
+60 bytes from 48:60:bc:eb:ef:94 (10.0.0.156): index=0 time=56.918 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=262.976 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=195.980 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=334.024 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=622.034 usec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=319.004 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=267.029 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.060 msec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=1.578 msec
+@
+@####
+60 bytes from 48:60:bc:eb:ef:94 (10.0.0.156): index=0 time=20.962 msec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.164): index=0 time=396.967 usec
+60 bytes from 00:0c:42:d0:d4:5a (10.0.0.166): index=0 time=271.797 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=262.022 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=179.052 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=171.900 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=674.009 usec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=325.918 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=267.029 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.248 msec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=202.894 usec
+@
+@60 bytes from fc:75:16:e9:f0:dc (10.0.0.164): index=0 time=529.051 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=232.935 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=216.007 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=372.887 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=643.969 usec
+####60 bytes from 00:16:44:12:56:40 (10.0.0.182): index=0 time=91.480 msec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=300.169 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=669.956 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.172 msec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=1.371 msec
+@
+
+@60 bytes from fc:75:16:e9:f0:dc (10.0.0.164): index=0 time=514.030 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=366.926 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=279.188 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=370.979 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=625.134 usec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=301.838 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=270.844 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.704 msec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=207.901 usec
+@
+@60 bytes from fc:75:16:e9:f0:dc (10.0.0.164): index=0 time=504.971 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=266.075 usec
+60 bytes from 30:39:26:96:36:77 (10.0.0.169): index=0 time=64.274 msec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=247.002 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=265.837 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=629.902 usec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=324.965 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=288.010 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.107 msec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=214.100 usec
+@
+@60 bytes from fc:75:16:e9:f0:dc (10.0.0.164): index=0 time=517.845 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=3.315 msec
+60 bytes from 30:39:26:96:36:77 (10.0.0.169): index=0 time=35.598 msec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=241.995 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.173): index=0 time=445.127 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=827.074 usec
+60 bytes from 00:1d:60:24:8a:bc (10.0.0.183): index=0 time=334.024 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=386.000 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.159 msec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=195.980 usec
+@
+@60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=256.062 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=331.163 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=629.902 usec
+60 bytes from 38:60:77:f3:c3:3d (10.0.0.184): index=0 time=283.957 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.135 msec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.195): index=0 time=202.894 usec
+@@
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=265.837 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=32.684 msec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.174): index=0 time=628.948 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.174 msec
+@@
+11
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.157): index=0 time=208.855 usec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=266.075 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=200.987 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.176 msec
+@
+@60 bytes from 00:1e:90:dd:43:b6 (10.0.0.156): index=0 time=359.058 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.157): index=0 time=218.868 usec
+60 bytes from 00:24:54:dd:7c:a0 (10.0.0.162): index=0 time=648.022 usec
+60 bytes from 00:16:44:12:56:40 (10.0.0.164): index=0 time=50.169 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=244.141 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=190.973 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.185 msec
+@
+@60 bytes from 00:1e:90:dd:43:b6 (10.0.0.156): index=0 time=254.869 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.157): index=0 time=210.047 usec
+60 bytes from 00:16:44:12:56:40 (10.0.0.162): index=0 time=56.698 msec
+60 bytes from 18:e7:f4:be:9f:c8 (10.0.0.163): index=0 time=39.990 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.168): index=0 time=258.923 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=193.834 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.151 msec
+@
+@60 bytes from 00:1e:90:dd:43:b6 (10.0.0.156): index=0 time=562.906 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.157): index=0 time=216.007 usec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.159): index=0 time=405.073 usec
+60 bytes from 00:16:44:12:56:40 (10.0.0.162): index=0 time=29.221 msec
+60 bytes from f0:1c:13:ca:6b:24 (10.0.0.166): index=0 time=40.338 msec
+60 bytes from c8:60:00:57:45:ad (10.0.0.169): index=0 time=272.989 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=193.119 usec
+60 bytes from b8:a3:86:03:c7:49 (10.0.0.177): index=0 time=2.849 msec
+60 bytes from 00:13:77:49:91:3c (10.0.0.183): index=0 time=308.990 usec
+60 bytes from c8:60:00:71:11:cc (10.0.0.184): index=0 time=329.018 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.058 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.188): index=0 time=245.810 usec
+@
+@60 bytes from 00:1e:90:dd:43:b6 (10.0.0.156): index=0 time=364.065 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.157): index=0 time=211.000 usec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.159): index=0 time=770.092 usec
+60 bytes from 00:16:44:12:56:40 (10.0.0.162): index=0 time=41.518 msec
+60 bytes from c8:60:00:57:45:ad (10.0.0.169): index=0 time=250.101 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=196.934 usec
+60 bytes from b8:a3:86:03:c7:49 (10.0.0.177): index=0 time=27.956 msec
+60 bytes from 00:13:77:49:91:3c (10.0.0.183): index=0 time=304.222 usec
+60 bytes from c8:60:00:71:11:cc (10.0.0.184): index=0 time=734.091 usec
+60 bytes from f0:e7:7e:db:d3:4c (10.0.0.185): index=0 time=99.577 msec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.098 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.188): index=0 time=253.916 usec
+60 bytes from 08:ed:b9:1a:3b:51 (10.0.0.190): index=0 time=71.798 msec
+@
+@60 bytes from 00:1e:90:dd:43:b6 (10.0.0.156): index=0 time=238.895 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.157): index=0 time=207.901 usec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.159): index=0 time=393.152 usec
+60 bytes from c8:60:00:57:45:ad (10.0.0.169): index=0 time=682.116 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=205.040 usec
+60 bytes from 00:13:77:49:91:3c (10.0.0.183): index=0 time=490.904 usec
+60 bytes from c8:60:00:71:11:cc (10.0.0.184): index=0 time=307.798 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.077 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.188): index=0 time=339.985 usec
+@
+@
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.156): index=0 time=548.840 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.157): index=0 time=200.987 usec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.159): index=0 time=388.861 usec
+60 bytes from 00:16:44:12:56:40 (10.0.0.162): index=0 time=48.441 msec
+60 bytes from c8:60:00:57:45:ad (10.0.0.169): index=0 time=254.869 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.171): index=0 time=183.105 usec
+60 bytes from 00:13:77:49:91:3c (10.0.0.183): index=0 time=820.160 usec
+60 bytes from c8:60:00:71:11:cc (10.0.0.184): index=0 time=315.905 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.080 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.188): index=0 time=381.947 usec
+@
+@60 bytes from 00:24:01:0c:c2:88 (10.0.0.156): index=0 time=433.922 usec
+60 bytes from 00:e0:4d:14:a3:dd (10.0.0.167): index=0 time=277.996 usec
+60 bytes from 48:5b:39:d7:31:38 (10.0.0.168): index=0 time=276.089 usec
+60 bytes from 00:16:44:12:56:40 (10.0.0.169): index=0 time=48.479 msec
+60 bytes from 90:e6:ba:83:f7:d3 (10.0.0.170): index=0 time=196.934 usec
+60 bytes from e0:cb:4e:bf:58:92 (10.0.0.171): index=0 time=313.044 usec
+60 bytes from 6c:62:6d:62:5b:83 (10.0.0.172): index=0 time=320.911 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.177): index=0 time=189.066 usec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.181): index=0 time=370.979 usec
+60 bytes from 00:13:77:49:91:3c (10.0.0.183): index=0 time=390.053 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.120 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.188): index=0 time=259.876 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.189): index=0 time=217.915 usec
+60 bytes from cc:f9:e8:76:96:dd (10.0.0.190): index=0 time=57.098 msec
+60 bytes from c8:60:00:57:45:ad (10.0.0.191): index=0 time=483.036 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.192): index=0 time=184.059 usec
+60 bytes from 00:25:22:74:a9:ed (10.0.0.194): index=0 time=545.979 usec
+60 bytes from 20:cf:30:b8:96:6a (10.0.0.195): index=0 time=392.914 usec
+@
+@60 bytes from 00:24:01:0c:c2:88 (10.0.0.156): index=0 time=529.051 usec
+60 bytes from 00:16:44:12:56:40 (10.0.0.169): index=0 time=4.910 msec
+60 bytes from 90:e6:ba:83:f7:d3 (10.0.0.170): index=0 time=216.007 usec
+60 bytes from 6c:62:6d:62:5b:83 (10.0.0.172): index=0 time=379.801 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.177): index=0 time=269.890 usec
+60 bytes from 18:87:96:32:4e:90 (10.0.0.180): index=0 time=71.228 msec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.181): index=0 time=352.144 usec
+60 bytes from 00:0c:6e:ea:4b:83 (10.0.0.182): index=0 time=241.041 usec
+60 bytes from 00:13:77:49:91:3c (10.0.0.183): index=0 time=1.237 msec
+60 bytes from e0:b9:a5:d0:02:35 (10.0.0.184): index=0 time=20.921 msec
+60 bytes from e0:b9:a5:d0:02:35 (10.0.0.184): index=1 time=21.824 msec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.244 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.188): index=0 time=333.071 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.189): index=0 time=207.186 usec
+60 bytes from cc:f9:e8:76:96:dd (10.0.0.190): index=0 time=98.326 msec
+60 bytes from c8:60:00:57:45:ad (10.0.0.191): index=0 time=252.962 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.192): index=0 time=380.993 usec
+60 bytes from 20:cf:30:b8:96:6a (10.0.0.195): index=0 time=458.956 usec
+@
+@60 bytes from 00:24:01:0c:c2:88 (10.0.0.156): index=0 time=399.113 usec
+60 bytes from 00:16:44:12:56:40 (10.0.0.169): index=0 time=32.456 msec
+60 bytes from 90:e6:ba:83:f7:d3 (10.0.0.170): index=0 time=213.861 usec
+60 bytes from 6c:62:6d:62:5b:83 (10.0.0.172): index=0 time=334.978 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.177): index=0 time=192.881 usec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.181): index=0 time=390.053 usec
+60 bytes from 00:0c:6e:ea:4b:83 (10.0.0.182): index=0 time=247.955 usec
+60 bytes from 00:13:77:49:91:3c (10.0.0.183): index=0 time=1.349 msec
+60 bytes from e0:b9:a5:d0:02:35 (10.0.0.184): index=0 time=8.039 msec
+60 bytes from e0:b9:a5:d0:02:35 (10.0.0.184): index=1 time=9.292 msec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.159 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.188): index=0 time=263.929 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.189): index=0 time=211.954 usec
+60 bytes from cc:f9:e8:76:96:dd (10.0.0.190): index=0 time=44.351 msec
+60 bytes from c8:60:00:57:45:ad (10.0.0.191): index=0 time=252.008 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.192): index=0 time=618.935 usec
+60 bytes from 20:cf:30:b8:96:6a (10.0.0.195): index=0 time=348.091 usec
+@
+60 bytes from 00:24:01:0c:c2:88 (10.0.0.156): index=0 time=447.989 usec
+60 bytes from 8c:89:a5:29:e3:89 (10.0.0.161): index=0 time=221.968 usec
+60 bytes from 8c:64:22:55:a1:a7 (10.0.0.166): index=0 time=87.277 msec
+60 bytes from 28:10:7b:ec:7f:35 (10.0.0.167): index=0 time=398.874 usec
+60 bytes from 6c:62:6d:62:5b:83 (10.0.0.172): index=0 time=381.947 usec
+60 bytes from 54:04:a6:f2:72:fb (10.0.0.175): index=0 time=228.882 usec
+60 bytes from 68:b5:99:90:8c:67 (10.0.0.177): index=0 time=190.973 usec
+60 bytes from 00:14:85:8c:b4:48 (10.0.0.180): index=0 time=247.002 usec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.181): index=0 time=380.039 usec
+60 bytes from 00:08:ca:f7:74:15 (10.0.0.182): index=0 time=13.410 msec
+60 bytes from 00:13:77:49:91:3c (10.0.0.183): index=0 time=437.975 usec
+60 bytes from b8:a3:86:03:c7:49 (10.0.0.184): index=0 time=106.266 msec
+60 bytes from 90:e6:ba:83:f7:d3 (10.0.0.186): index=0 time=213.861 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.001 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.188): index=0 time=249.863 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.189): index=0 time=195.980 usec
+60 bytes from c8:60:00:57:45:ad (10.0.0.191): index=0 time=522.137 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.192): index=0 time=307.798 usec
+60 bytes from 00:11:6b:95:9a:2e (10.0.0.194): index=0 time=196.934 usec
+60 bytes from 20:cf:30:b8:96:6a (10.0.0.195): index=0 time=447.035 usec
+60 bytes from 00:24:01:0c:c2:88 (10.0.0.156): index=0 time=326.872 usec
+60 bytes from 8c:89:a5:29:e3:89 (10.0.0.161): index=0 time=236.988 usec
+60 bytes from 00:11:6b:95:9a:2e (10.0.0.163): index=0 time=200.033 usec
+60 bytes from 48:60:bc:eb:ef:94 (10.0.0.166): index=0 time=77.089 msec
+60 bytes from 28:10:7b:ec:7f:35 (10.0.0.167): index=0 time=401.020 usec
+60 bytes from 00:08:ca:f7:74:15 (10.0.0.170): index=0 time=72.320 msec
+60 bytes from 6c:62:6d:62:5b:83 (10.0.0.172): index=0 time=319.958 usec
+60 bytes from 90:e6:ba:83:f7:d3 (10.0.0.173): index=0 time=286.102 usec
+60 bytes from bc:ae:c5:c4:d2:98 (10.0.0.176): index=0 time=273.943 usec
+60 bytes from 00:0c:6e:ea:4b:83 (10.0.0.177): index=0 time=236.034 usec
+60 bytes from 00:14:85:8c:b4:48 (10.0.0.180): index=0 time=277.996 usec
+60 bytes from fc:75:16:e9:f0:dd (10.0.0.181): index=0 time=375.032 usec
+60 bytes from e0:b9:a5:d0:02:35 (10.0.0.182): index=0 time=9.410 msec
+60 bytes from 00:13:77:49:91:3c (10.0.0.183): index=0 time=483.990 usec
+60 bytes from 00:03:94:14:99:23 (10.0.0.187): index=0 time=2.184 msec
+60 bytes from 00:03:81:9d:cd:c3 (10.0.0.188): index=0 time=249.863 usec
+60 bytes from 00:14:85:e2:ae:42 (10.0.0.189): index=0 time=211.000 usec
+60 bytes from c8:60:00:57:45:ad (10.0.0.191): index=0 time=286.102 usec
+60 bytes from 00:1e:90:dd:43:b6 (10.0.0.192): index=0 time=118.971 usec
+60 bytes from 20:cf:30:b8:96:6a (10.0.0.195): index=0 time=653.982 usec

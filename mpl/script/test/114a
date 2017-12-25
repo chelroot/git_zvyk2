@@ -1,0 +1,21 @@
+#!/bin/bash
+
+
+for i in  1 2 3 4 5 197 247
+
+
+
+
+do 
+
+    if 
+	ping -c 1  10.0.0.$i | grep 64 >> /dev/null
+    then
+	echo $i
+    else
+	arping2 -c 1 10.0.0.$i | grep bytes >> net2.txt
+    fi
+
+
+
+done

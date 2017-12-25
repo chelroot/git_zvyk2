@@ -1,0 +1,29 @@
+#!/bin/bash
+
+ddir=/var/www/html/foto
+
+DATEaa=`date '+%d'.'%m' --date="-9 day"`
+DATE14=`date '+%d'.'%m' --date="-10 day"`
+
+for II in  `cat /home/vova/userid.txt`
+do
+rm -rf $ddir/$II/$DATE14
+
+sed -i "/$DATE14/d" $ddir/$II/index.html
+
+for i in  00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+do
+
+rm -rf $ddir/$II/$DATEaa/"$i":00
+sed -i "/"$i":00</d"  $ddir/"$II"/$DATEaa/index.html
+
+#rm -rf $ddir/$II/$DATE2/"$i":00
+#sed -i "/"$i":00</d"  $ddir/"$II"/$DATE2/index.html
+
+done
+
+done
+
+
+
+

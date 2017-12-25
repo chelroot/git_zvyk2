@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mplayer -nocache -softvol /home/vova/7/1/`ls /home/vova/7/1/` -af extrastereo=0,volume=5
+

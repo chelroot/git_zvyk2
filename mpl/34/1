@@ -1,0 +1,2 @@
+ 5826 pts/1    SL+    0:00 mplayer -nocache -softvol http://de02.streamr.ru:8052/europaplus256.mp3 -af extrastereo=0,volume=6
+ 5854 pts/0    S+     0:00 grep --color=auto mpl

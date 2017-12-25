@@ -1,0 +1,10 @@
+#!/bin/bash
+
+amixer set Master unmute 35
+
+killall mplayer
+
+sleep 1
+
+mplayer -nocache -softvol `head -1 /home/vova/public_html/server/radio/radio.txt` -af extrastereo=0,volume=`head -1 /home/vova/public_html/server/volume/volume.txt`
+

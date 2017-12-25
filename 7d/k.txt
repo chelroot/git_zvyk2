@@ -1,0 +1,2 @@
+11148 ?        SNL    0:00 mplayer -nocache -softvol http://radio37.ru:8000/avtoradio.mp3 -af extrastereo=0,volume=15
+11197 pts/0    S+     0:00 grep mplayer

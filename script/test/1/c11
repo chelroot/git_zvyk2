@@ -1,0 +1,34 @@
+#!/bin/bash
+i=11
+    if
+
+    ls /home/vova/public_html/$i | grep mp3 >> /dev/null
+
+    then
+
+    amixer set Master unmute 20;sleep 1
+
+    amixer set Master unmute 15;sleep 1
+
+    amixer set Master unmute 10;sleep 1
+
+    amixer set Master unmute 5;sleep 1
+
+
+    ps -ax | grep mplayer > k.txt;kill `head -c10 k.txt`
+
+    sleep 2
+
+amixer set Master unmute `ls  /home/vova/public_html/$i/ >/home/vova/7/2.txt;head -2c /home/vova/7/2.txt`
+
+
+mplayer -nocache -softvol /home/vova/public_html/$i/`ls /home/vova/public_html/$i/` -af extrastereo=0,volume=5
+
+
+    /home/vova/7/scr_radio
+
+
+    else
+    echo  "#"
+
+    fi

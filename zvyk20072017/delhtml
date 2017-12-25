@@ -1,0 +1,27 @@
+#!/bin/bash
+
+for i in `cat /home/vova/userid.txt`
+do
+
+
+#find /var/www/html/foto/$i/site -atime +2 -type f -regex ".*\.\(jpg\|JPG\|html\)"| xargs rm -rf
+find /var/www/html/foto/$i/site -atime +1 | xargs rm -rf
+
+####find /var/www/html/foto/$i -atime +3 | xargs rm -rf
+
+#sleep 600
+
+######find /var/www/html/foto/$i -type d -empty | xargs rm -rf
+
+find /var/www/html/foto/$i/site -type d -empty | xargs rm -rf
+
+find /var/www/html/foto/$i/site -type d -empty | xargs rm -rf
+
+find /var/www/html/foto/$i/site -type d -empty | xargs rm -rf
+
+find /var/www/html/foto/$i/site -type d -empty | xargs rm -rf
+
+
+done
+
+

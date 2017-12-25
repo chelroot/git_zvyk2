@@ -1,0 +1,37 @@
+#!/bin/bash
+
+DAT=`date  +"%d.%m" --date="-1 hour"`
+LL=`date  +"%Y-%m-%d" --date="-1 hour"`
+VVVa=`date '+%H' --date="-2 hour"`:59
+VVV=`date '+%H' --date="-1 hour"`
+
+LL2=`date  +"%Y-%m-%d"`
+VVV2=`date '+%H'`:00
+
+DIRR=/var/www/html/foto
+
+for i in  kios1 ad1 ad2
+do
+mkdir $DIRR/$i/$DAT/$VVV
+
+y=0
+for iii in  `nice -n 16 find $DIRR/"$i"/site -mindepth 1 -newermt ""$LL" "$VVVa"" ! -newermt ""$LL2" "$VVV2"" -iname '*.jpg' | sort`
+do
+y=`expr ${y} + 1`
+mv -f `echo "$iii"` $DIRR/$i/$DAT/$VVV/${y}.jpg
+nice -n 16 find $DIRR/"$i"/site -type d -empty | xargs rm -rf
+done
+echo "<a href=/foto/$i/$DAT/"$VVV">$VVV</a> <br />" >> $DIRR/"$i"/$DAT/index.html
+#echo `date  +%H:"%M:%S"`_записал_AAA_каталог_$i >> /home/vova/d.txt
+done
+echo `date  +%H:"%M:%S"`_записал_$VVV/каталоги >> /home/vova/d.txt
+
+for i in  kios1 ad1 ad2
+do
+jpeginfo -d $DIRR/$i/$DAT/$VVV/*.jpg >/dev/null 2>&1
+nice -n 16 avconv -f image2 -r 10 -i $DIRR/$i/$DAT/$VVV/%d.jpg $DIRR/$i/$DAT/$VVV.avi
+echo "<a href=/foto/$i/$DAT/"$VVV.avi">$VVV.avi</a><br />" >> $DIRR/"$i"/$DAT/index.html
+#echo `date  +%H:"%M:%S"`_записал_$VVV/ролик_$i >> /home/vova/d.txt
+done
+
+echo `date  +%H:"%M:%S"`_записал_$VVV/ролики >> /home/vova/d.txt

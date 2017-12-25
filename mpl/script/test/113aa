@@ -1,0 +1,21 @@
+
+
+    if 
+    arping2 -c 1 10.0.0.$i | grep 60 >> /dev/null
+    then
+    echo "####################################"
+    echo "#"
+    
+    arping2 -c 1 10.0.0.$i | grep 60
+    nmap 10.0.0.$i
+    echo "#"
+    echo "#"
+    
+    
+    else
+    echo  10.0.0.$i "свободный" 
+    fi
+
+
+done
+	  

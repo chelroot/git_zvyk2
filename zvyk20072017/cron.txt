@@ -1,0 +1,57 @@
+#aminute (0-59),
+#|	hour (0-23),
+#|	|	day of the month (1-31),
+
+
+*/2 * * * * /home/vova/restartt
+1 0 * * * /home/vova/dird
+3 * * * * /home/vova/ffmpeg
+33 3 * * * /home/vova/delkat
+55 5 * * * /home/vova/delhtml
+
+
+50 8 * * * mpg123 /home/vova/7/Do_otkrytiq_10_minut.mp3
+
+0 9 * * * mpg123 /home/vova/7/Helsq_otkryt.mp3
+
+45 19 * * 1-6 mpg123 /home/vova/7/Ostalosq_15_minut.mp3
+
+0 20 * * 1-6 mpg123 /home/vova/7/Zakryt.mp3
+
+45 18 * * 0 mpg123 /home/vova/7/Ostalosq_15_minut.mp3
+
+0 19 * * 0 mpg123 /home/vova/7/Zakryt.mp3
+
+*/2 9-18 * * *  /home/vova/7/server_reset
+
+2 9 * * * /home/vova/7/server_start
+
+50 19 * * 1-6 /home/vova/7/server_stop
+55 19 * * 1-6 /home/vova/7/server_stop
+
+50 18 * * 0 /home/vova/7/server_stop
+55 18 * * 0 /home/vova/7/server_stop
+10 19 * * 0 /home/vova/7/server_stop
+15 19 * * 0 /home/vova/7/server_stop
+20 19 * * 0 /home/vova/7/server_stop
+30 19 * * 0 /home/vova/7/server_stop
+40 19 * * 0 /home/vova/7/server_stop
+50 19 * * 0 /home/vova/7/server_stop
+10 20 * * 0 /home/vova/7/server_stop
+20 20 * * 0 /home/vova/7/server_stop
+
+1 21 * * * /home/vova/7/server_stop
+30 21 * * 0 /home/vova/7/server_stop
+1 22 * * * /home/vova/7/server_stop
+30 22 * * 0 /home/vova/7/server_stop
+1 23 * * * /home/vova/7/server_stop
+1 0 * * * /home/vova/7/server_stop
+1 1 * * * /home/vova/7/server_stop
+1 6 * * * /home/vova/7/server_stop
+1 7 * * * /home/vova/7/server_stop
+
+
+
+
+*/1 10-17 * * * /home/vova/7/c1
+

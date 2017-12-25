@@ -1,0 +1,116 @@
+#minute (0-59),
+#|	hour (0-23),
+#|	|	day of the month (1-31),
+#|	|	|	month of the year (1-12),
+#|	|	|	|	day of the week (0-6 with 0=Sunday).
+#|	|	|	|	|	commands
+
+
+
+50 8 * * * /home/vova/7/10ot
+
+1 9 * * * /home/vova/7/ot
+
+
+53 19 * * 1-6 /home/vova/7/15zakr
+
+8 20 * * 1-6 /home/vova/7/zakr
+
+53 18 * * 0 /home/vova/7/15zakr
+
+8 19 * * 0 /home/vova/7/zakr
+
+*/2 9-18 * * *  /home/vova/7/server_reset
+
+5 9 * * * /home/vova/7/server_start
+
+50 19 * * 1-6 /home/vova/7/server_stop
+55 19 * * 1-6 /home/vova/7/server_stop
+
+50 18 * * 0 /home/vova/7/server_stop
+55 18 * * 0 /home/vova/7/server_stop
+10 19 * * 0 /home/vova/7/server_stop
+15 19 * * 0 /home/vova/7/server_stop
+20 19 * * 0 /home/vova/7/server_stop
+30 19 * * 0 /home/vova/7/server_stop
+40 19 * * 0 /home/vova/7/server_stop
+50 19 * * 0 /home/vova/7/server_stop
+10 20 * * 0 /home/vova/7/server_stop
+20 20 * * 0 /home/vova/7/server_stop
+
+1 21 * * * /home/vova/7/server_stop
+30 21 * * 0 /home/vova/7/server_stop
+1 22 * * * /home/vova/7/server_stop
+30 22 * * 0 /home/vova/7/server_stop
+1 23 * * * /home/vova/7/server_stop
+1 0 * * * /home/vova/7/server_stop
+1 1 * * * /home/vova/7/server_stop
+1 6 * * * /home/vova/7/server_stop
+1 7 * * * /home/vova/7/server_stop
+
+
+
+
+1 10-18 * * * /home/vova/7/r1/c1
+2 10-18 * * * /home/vova/7/r1/c2
+3 10-18 * * * /home/vova/7/r1/c3
+4 10-18 * * * /home/vova/7/r1/c4
+5 10-18 * * * /home/vova/7/r1/c5
+6 10-18 * * * /home/vova/7/r1/c6
+7 10-18 * * * /home/vova/7/r1/c7
+8 10-18 * * * /home/vova/7/r1/c8
+9 10-18 * * * /home/vova/7/r1/c9
+10 9-18 * * * /home/vova/7/r1/c10
+11 9-18 * * * /home/vova/7/r1/c11
+12 9-18 * * * /home/vova/7/r1/c12
+13 9-18 * * * /home/vova/7/r1/c13
+14 9-18 * * * /home/vova/7/r1/c14
+15 9-18 * * * /home/vova/7/r1/c15
+16 9-18 * * * /home/vova/7/r1/c16
+17 9-18 * * * /home/vova/7/r1/c17
+18 9-18 * * * /home/vova/7/r1/c18
+19 9-18 * * * /home/vova/7/r1/c19
+20 9-18 * * * /home/vova/7/r1/c20
+21 9-17 * * * /home/vova/7/r1/c21
+22 9-17 * * * /home/vova/7/r1/c22
+23 9-17 * * * /home/vova/7/r1/c23
+24 9-17 * * * /home/vova/7/r1/c24
+25 9-17 * * * /home/vova/7/r1/c25
+26 9-17 * * * /home/vova/7/r1/c26
+27 9-17 * * * /home/vova/7/r1/c27
+28 9-17 * * * /home/vova/7/r1/c28
+29 9-17 * * * /home/vova/7/r1/c29
+30 9-17 * * * /home/vova/7/r1/c30
+31 9-17 * * * /home/vova/7/r1/c31
+32 9-17 * * * /home/vova/7/r1/c32
+33 9-17 * * * /home/vova/7/r1/c33
+34 9-17 * * * /home/vova/7/r1/c34
+35 9-17 * * * /home/vova/7/r1/c35
+36 9-17 * * * /home/vova/7/r1/c36
+37 9-17 * * * /home/vova/7/r1/c37
+38 9-17 * * * /home/vova/7/r1/c38
+39 9-17 * * * /home/vova/7/r1/c39
+40 9-17 * * * /home/vova/7/r1/c40
+41 9-17 * * * /home/vova/7/r1/c41
+42 9-17 * * * /home/vova/7/r1/c42
+43 9-17 * * * /home/vova/7/r1/c43
+44 9-17 * * * /home/vova/7/r1/c44
+45 9-17 * * * /home/vova/7/r1/c45
+46 9-17 * * * /home/vova/7/r1/c46
+47 9-17 * * * /home/vova/7/r1/c47
+48 9-17 * * * /home/vova/7/r1/c48
+49 9-17 * * * /home/vova/7/r1/c49
+50 9-17 * * * /home/vova/7/r1/c50
+51 9-17 * * * /home/vova/7/r1/c51
+52 9-17 * * * /home/vova/7/r1/c52
+53 9-17 * * * /home/vova/7/r1/c53
+54 9-17 * * * /home/vova/7/r1/c54
+55 9-17 * * * /home/vova/7/r1/c55
+56 9-17 * * * /home/vova/7/r1/c56
+57 9-17 * * * /home/vova/7/r1/c57
+58 9-17 * * * /home/vova/7/r1/c58
+59 9-17 * * * /home/vova/7/r1/c59
+
+
+
+

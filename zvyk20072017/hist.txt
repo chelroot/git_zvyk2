@@ -1,0 +1,196 @@
+    1  apt-get update
+    2  apt-get install mpg123 mpg321 vlc;apt-get install alsa-utils alsamixer-qt4 amixer
+    3  apt-cache search mplayer
+    4  apt-get install mplayer-doc-ru gnome-mplayer
+    5  apt-get install mpg123 mpg321 vlc;apt-get install alsa-utils alsamixer-qt4 amixer
+    6  apt-cache search  pavucontrol
+    7  apt-get install  pavucontrol
+    8  cat >>/etc/rc.d/rc.local 
+    9  chmod +x /etc/rc.d/rc.local 
+   10  update-kernel 
+   11  mc
+   12  service httpd2 restart
+   13  mc
+   14  apt-get install samba
+   15  apt-get dist-upgrade
+   16  apt-get clean
+   17  mc
+   18  mv /etc/samba/smb.conf /etc/samba/smb.conf.old
+   19  cat >>/etc/samba/smb.conf
+   20  mc
+   21  service smb restart;service nmb restart
+   22  service smb restart;service nmb restart
+   23  chkconfig 
+   24  chkconfig --level 35 smb on
+   25  chkconfig --level 35 nmb on
+   26  mc
+   27  chmod 777 /home/vova/public_html/
+   28  chmod 777 /home/vova
+   29  ls
+   30  mc
+   31  chown .apache vova
+   32  chmod g+rx pavel
+   33  chmod g+rx vova
+   34  scp -r 94.24.254.74:/home/vova/77 /home/vova/
+   35  exit
+   36  mc
+   37  mc
+   38  service smb restart;service nmb restart
+   39  mc
+   40  service smb restart;service nmb restart
+   41  ./rc.local
+   42  mc
+   43  exit
+   44  apt-get update
+   45  apt-get update;apt-get install samba;mkdir /home/public;chmod 777 /home/public;mv /etc/samba/smb.conf /etc/samba/smb.conf.old;cat >>/etc/samba/smb.conf 
+   46  service smb restart;service nmb restart
+   47  mc
+   48  apt-get update
+   49  apt-get install hostapd 
+   50  mc
+   51  cat >>/etc/hostapd/hostapd.conf 
+   52  mc
+   53  service hostapd restart 
+   54  exit
+   55  reboot
+   56  apt-get update
+   57  apt-get install alterator-asterisk-gateway asterisk11-chan_sip 
+   58  mv /etc/asterisk/sip.conf /etc/asterisk/sip.conf.old;mv /etc/asterisk/extensions.conf /etc/asterisk/extensions.conf.old
+   59  touch /etc/asterisk/sip.conf;touch /etc/asterisk/extensions.conf 
+   60  mcedit /etc/asterisk/sip.conf
+   61  service asterisk restart
+   62  asterisk -r
+   63  mc
+   64  cp /home/vova/mell.ulaw /var/lib/pbx/music 
+   65  mc
+   66  apt-get install asterisk11-chan_iax2 
+   67  apt-get install asterisk11-codec_gsm asterisk11-codec_speex 
+   68  mkdir /var/lib/asterisk/firmware;mkdir /var/lib/asterisk/firmware/iax
+   69  cat >> /etc/asterisk/iax.conf 
+   70  mc
+   71  service asterisk restart
+   72  asterisk -r
+   73  service asterisk restart
+   74  asterisk -r
+   75  mc
+   76  service asterisk restart
+   77  asterisk -r
+   78  mkdir /var/lib/asterisk/firmware;mkdir /var/lib/asterisk/firmware/iax
+   79  history 
+   80  service asterisk restart
+   81  asterisk -r
+   82  service asterisk restart
+   83  asterisk -r
+   84  mc
+   85  asterisk -r
+   86  service asterisk restart
+   87  asterisk -r
+   88  apt-get install alterator-asterisk-gateway asterisk11-chan_sip 
+   89  mc
+   90  service asterisk restart
+   91  asterisk -r
+   92  mc
+   93  service asterisk restart
+   94  mc
+   95  service asterisk restart
+   96  asterisk -rvvvv
+   97  mc
+   98  apt-get update
+   99  exit
+  100  apt-get install nmap
+  101  exit
+  102  mc
+  103  exit
+  104  ./rc.local
+  105  mc
+  106  exit
+  107  reboot
+  108  reboot
+  109  reboot
+  110  reboot
+  111  mc
+  112  history 
+  113  service hostapd restart
+  114  mc
+  115  service hostapd restart
+  116  exit
+  117  mc
+  118  exit
+  119  mc
+  120  history 
+  121  rpm -qa | grep ftp
+  122  apt-get update 
+  123  apt-get remove alterator-vsftpd vsftpd
+  124  service xinetd restart
+  125  nmap 127.0.0.1
+  126  cat /proc/cpuinfo
+  127  apt-get install htop nmap nload arping2
+  128  apt-get install pure-ftpd-light
+  129  apt-get install ImageMagick ffmpeg
+  130  apt-get install nginx php5-fpm-fcgi
+  131  apt-get install jpegoptim
+  132  groupadd foto
+  133  mc
+  134  df
+  135  mc
+  136  mkdir /var/www/html/foto
+  137  chmod 777 /var/www/html/foto
+  138  useradd -g foto -d /var/www/html/foto -s /sbin/nologin foto
+  139  mcedit /etc/pure-ftpd/pure-ftpd.conf
+  140  service pure-ftpd restart
+  141  chkconfig pure-ftpd on
+  142  exit
+  143  pure-pw useradd kios1 -u foto -g foto -d /var/www/html/foto/kios1 -m
+  144  mc
+  145  mc
+  146  exit
+  147  mc
+  148  exit
+  149  pure-pw useradd skld1 -u foto -g foto -d /var/www/html/foto/skld1 -m
+  150  exit
+  151  history 
+  152  exit
+  153  history 
+  154  mc
+  155  cat /etc/rc.d/rc.local
+  156  exit
+  157  history 
+  158  exit
+  159  mc
+  160  pure-pw useradd admi1 -u foto -g foto -d /var/www/html/foto/admm1 -m
+  161  pure-pw list
+  162  history 
+  163  pure-pw useradd adm2 -u foto -g foto -d /var/www/html/foto/adm1 -m
+  164  pure-pw useradd ad1 -u foto -g foto -d /var/www/html/foto/ad1 -m
+  165  pure-pw useradd ad2 -u foto -g foto -d /var/www/html/foto/ad2 -m
+  166  mc
+  167  ls
+  168  rm -rf 1*
+  169  LS
+  170  ls
+  171  exit
+  172  mc
+  173  history 
+  174   chmod -R 777 /var/www/html/foto
+  175   chmod -R 777 /var/www/html/foto/ad1
+  176   chmod -R 777 /var/www/html/foto/ad2
+  177  mc
+  178  exit
+  179  apt-get update
+  180  exit
+  181  service asterisk stop
+  182  chkconfig asterisk off
+  183  exit
+  184  service hostapd restart
+  185  mc
+  186  service hostapd restart
+  187  df
+  188  exit
+  189  uname -a
+  190  apt-get update
+  191  history 
+  192  exit
+  193  history 
+  194  exit
+  195  history 
+  196  history >/home/vova/hist.txt

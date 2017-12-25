@@ -1,0 +1,2 @@
+  657 pts/0    S+     0:00 grep --color=auto nocache
+32472 ?        SNL    0:14 mplayer -nocache -softvol http://radiosilver.corbina.net:8000/silver128.mp3 -af extrastereo=0,volume=15

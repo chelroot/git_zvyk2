@@ -1,0 +1,7 @@
+#!/bin/bash
+
+i=1;
+while [ $i -le 254 ];
+do echo unit user name ttt$i ip 192.168.3.$i acct-policy ip www mail >> netams1923.txt;
+i=$[$i+1];
+done

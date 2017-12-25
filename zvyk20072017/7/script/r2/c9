@@ -1,0 +1,28 @@
+#!/bin/bash
+i=9
+if
+
+    head -1 /home/vova/public_html/server/name/f"$i".txt | grep mp3 >> /dev/null
+
+    then
+
+    amixer set Master unmute 20;sleep 1
+    amixer set Master unmute 15;sleep 1
+    amixer set Master unmute 10;sleep 1
+    amixer set Master unmute 5;sleep 1
+
+killall mplayer
+
+    sleep 2
+
+amixer set Master unmute `head -2c /home/vova/public_html/server/name/f"$i".txt`
+
+mpg123 /home/vova/public_html/server/download/temp/`head -1 /home/vova/public_html/server/name/f"$i".txt`
+
+    /home/vova/7/scr_radio
+
+
+    else
+    /home/vova/7/tecting
+
+    fi

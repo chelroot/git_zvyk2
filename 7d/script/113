@@ -1,0 +1,22 @@
+#!/bin/bash
+
+i=1
+
+while [ $i -le 10 ]
+
+do #echo -n $i
+
+
+    if 
+	ping -c 1  10.0.0.$i | grep 64 >> /dev/null
+    then
+	arping2 -c 1 10.0.0.$i | grep bytes >> net1.txt
+    else
+	echo  $i "свободный" >> net.txt
+    fi
+
+
+i=$[$i+1]
+
+done
+	  

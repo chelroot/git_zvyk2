@@ -1,0 +1,18 @@
+    then
+    amixer set Master unmute 20;sleep 1
+    amixer set Master unmute 15;sleep 1
+    amixer set Master unmute 10;sleep 1
+    amixer set Master unmute 5;sleep 1
+    ps -ax | grep mplayer > k.txt;kill `head -c10 k.txt`
+    ps -ax | grep mplayer > k.txt;kill `head -c10 k.txt`
+    sleep 2
+
+amixer set Master unmute `ls  /home/vova/public_html/server/download/temp | grep "$i"m_ >/home/vova/public_html/server/download/2.txt;\
+head -5c /home/vova/public_html/server/download/2.txt| tail -c1;head -6c /home/vova/public_html/server/download/2.txt| tail -c1`;
+
+mpg123 /home/vova/public_html/server/download/temp/\
+`head -1  /home/vova/public_html/server/download/2.txt`
+    /home/vova/7/scr_radio
+    else 
+    echo  "#"
+    fi

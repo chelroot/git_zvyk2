@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="%description%"></meta>
+		<meta name="keywords" content="%keywords%"></meta>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+<h3>Архив камеры </h3>
+<script src="http://f1.chelsi174.ru/foto/jpuery-1-8-3.js"></script>
+
+<!--noindex-->
+    <style type="text/css">
+    .cam-wrapper {
+            text-align: left; /* Обертка блока, центрирование */
+          }
+            .cam {
+                display: inline-block;
+                margin: 1px 100px 1px 1px;
+                cursor: pointer;
+                width: 240px;
+                height: 180px;
+                border: 2px solid red;
+                border-radius: 10px;
+                }
+    </style>
+    <script>
+
+
+        setInterval(function () {
+
+                $(".cam").each(function (index) {
+                var obj = $(this);
+                d = new Date();
+                var bg = obj.css("background-image").match(/((http|https):\/\/.*(jpg|png|gif)).*/i)[1] + '?random=' + d.getTime();
+                console.log(bg);
+                $('<img/>').attr('src', bg).load(function () {
+                $(this).remove(); // чтобы избежать утечки памяти
+                obj.css('background-image', 'url(' + bg + ')');
+                 });
+                             });
+                                     }, 1000);
+
+
+
+    </script>
+
+
+<div class="cam-wrapper">
+<div class="cam" onclick="window.open('http://f1.chelsi174.ru/foto/gg1.jpg')" style="background: url(http://f1.chelsi174.ru/foto/gg1a.jpg)100% 100% no-repeat;   background-size: cover;">
+            </div>
+            </div>
+
+<!--noindex-->
+
+
+</header>
+  <!-- .header-->
+
+
+ <p><a href="site/">Самые последние фотографии</a>
+(Фотографии с камеры за последний час в необработанном виде)</p>
+<p>Далее по дням</p>
+
+<a href=27.02>27.02</a><br />
+<a href=28.02>28.02</a><br />

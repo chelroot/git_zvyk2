@@ -1,0 +1,27 @@
+#!/bin/bash
+
+
+for i in  1 2 3 4 5 166 171 197 198 199 200 247
+
+
+do 
+
+    if 
+    arping2 -c 1 10.0.0.$i | grep 60 >> /dev/null
+    then
+    echo "####################################"
+    echo "#"
+    
+    arping2 -c 1 10.0.0.$i | grep 60
+    nmap 10.0.0.$i
+    echo "#"
+    echo "#"
+    
+    
+    else
+    echo  10.0.0.$i "свободный" 
+    fi
+
+
+done
+	  

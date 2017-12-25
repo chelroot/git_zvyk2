@@ -1,0 +1,47 @@
+#!/bin/bash
+
+
+    #DATE = date +%d-%m-%Y
+
+DATE=`date +%d.%m.%Y`
+
+#sleep 40
+
+    if
+
+    ps -ax | grep nocache | grep softvol >> /dev/null
+
+
+    then
+
+    echo "$DATE" >> /home/vova/8/testok
+
+
+    else
+    #echo "$DATE нет звука" >> /home/vova/8/testing
+
+#####
+    sleep 20
+
+    if
+
+    ps -ax | grep nocache | grep softvol >> /dev/null
+
+
+    then
+
+    echo "$DATE" >> /home/vova/8/testok
+
+
+    else
+
+    /home/vova/7/scr_radio
+
+
+
+    fi
+
+#####
+
+
+    fi
